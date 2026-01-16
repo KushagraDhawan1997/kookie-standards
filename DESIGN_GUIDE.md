@@ -6,6 +6,8 @@ This guide defines how we design blocks for Kookie Blocks—not just what they d
 
 ## Core Beliefs
 
+**Performance is design.** A slow interface is a broken interface. No amount of polish matters if users wait. Performance is the first and most important user experience—it's not a technical concern, it's a design principle. A fast, responsive UI beats a beautiful slow one every time.
+
 **Every pixel is a decision.** There are no defaults—only intentional choices. When you reach for Inter or a purple gradient, stop. Ask: "What does THIS interface actually need to feel like?"
 
 **Mediocrity is a choice.** Generic design happens when you optimize for "safe" instead of "right." The goal isn't to avoid mistakes—it's to create something someone will remember.
